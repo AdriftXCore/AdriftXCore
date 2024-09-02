@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+<tr>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriftXCore&layout=compact&langs_count=4)]()
+
+</td>
+</tr>
+</table>
+
 ### ⚡ 我的技术栈 | My Tech Stack
 
 * ![Static Badge](https://img.shields.io/badge/systemverilog-blue) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/M-orangered)
