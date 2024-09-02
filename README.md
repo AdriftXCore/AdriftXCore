@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ⚡ 我的技术栈 | My Tech Stack
+
+* ![Static Badge](https://img.shields.io/badge/systemverilog-blue) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/M-orangered)
+
+* ![Static Badge](https://img.shields.io/badge/vivado-gold) ![Static Badge](https://img.shields.io/badge/matlab-red) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/verdi-%239400D3) ![Static Badge](https://img.shields.io/badge/vcs-%2300FF00)
+
+
+
